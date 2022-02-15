@@ -1,0 +1,52 @@
+.bslogin_itemcontainer{
+    margin-top: 30%;
+}
+
+.bslogin_phonenumber::placeholder{
+    text-align: center;
+}
+
+.bslogin_mobnumtext{
+font-style: normal;
+font-weight: normal;
+word-spacing: 25%;
+font-size: 15.24px;
+line-height: 21px;
+color: #373737;
+margin: 18% 9% 8%;
+}
+
+.bslogin_phonenumber{
+    background: #f2f2f2;
+border: 1px solid #f2f2f2;
+box-shadow: 0px 4px 4px #f2f2f2;
+border-radius: 5.30px;
+padding: 2.5% 6%;
+}
+
+.bslogin_ortext{
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 34px;
+color: #9D9898;
+margin: 3% 0;
+}
+
+.bslogin_googlebutton{
+    margin-bottom: 5%;
+}
+
+.bslogin_googlebutton, .bslogin_fbbutton{
+    background: #FFFFFF;
+    box-shadow: 15px 0px 30px rgba(211, 212, 226, 0.25);
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 12px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+    color: #120D26;
+    padding: 4% 8%;
+}
